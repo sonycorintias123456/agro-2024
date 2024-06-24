@@ -1,11 +1,16 @@
 body{
     background-color: rgb(127, 255, 138);
 }
-.cabelho{
-    color:white;
+.cabelho
+{
+    color:rgb(241, 232, 232);
     text-align: center;
-    background-color: rgb(52, 62, 95);
+    background-color: rgb(10, 14, 26);
     border-radius:50%
     width:50;
-    text-ali
+    .elemento-pai {
+        display: flex;
+        justify-content: center;
+        align-items: center
+    }
 }
